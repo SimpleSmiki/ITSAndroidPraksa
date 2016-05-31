@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITSPraksaOne</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="result_label">Result =</string>
+</resources>
